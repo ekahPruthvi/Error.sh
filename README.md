@@ -6,4 +6,4 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
 This script addresses common gpg-key ERRORS,fakeroot,etc </br>
-made for [cynageOS](https://github.com/ekahPruthvi/cynageOS)
+Made for [cynageOS](https://github.com/ekahPruthvi/cynageOS)
